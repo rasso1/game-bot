@@ -1,2 +1,2 @@
 # game-bot
-基于sspanel的赌博软件。
+基于sspanel的telegram赌博bot。
